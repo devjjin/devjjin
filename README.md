@@ -1,9 +1,8 @@
-<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&text=jjin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=180" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjjin&layout=compact)](https://github.com/devjjin/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjjin&layout=compact)
 
-<div align="center">
 <h2>🔨 Once I've used 🔨</h2>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" /> 
