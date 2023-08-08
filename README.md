@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&text=jjin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=180" />
 
-   [![devjjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjjin)](https://github.com/devjjin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjjin&layout=compact)](https://github.com/devjjin/github-readme-stats)
 
 <div align="center">
