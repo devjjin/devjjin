@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/Tailwind-css-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
 
+### Study
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+</p>
+
 ### 🛠 Tools
 <p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
